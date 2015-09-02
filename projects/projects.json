@@ -2,6 +2,24 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+  "name": "opTEAMize", 
+  "thumb": "opteamize/thumb.png",
+  "desc": "Build your project anywhere, anytime",
+  "url": "http://edu.opteamize.in", 
+  "info": "http://www.opteamize.in/blog/", 
+  "src": "",
+  "submitter": "srinathranga",
+  "submissionDate": "2015-09-02", 
+  "tags": [
+    "Final Year Students",
+  "Project", 
+  "IEEE Project",
+  "Academic Project",
+  "IBM Bluemix",
+  "cloudfoundry"
+  ]
+},
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
